@@ -8,10 +8,8 @@ import org.springframework.stereotype.Component;
 
 import javax.net.ssl.*;
 import java.io.IOException;
-import java.net.http.HttpClient;
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
-import java.security.SecureRandom;
 import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
 
